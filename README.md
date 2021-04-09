@@ -1,14 +1,24 @@
 # AlgorithmStudy
 
-**2021.03.15 ~ 2021.03.21** 👉 민수
+**2021.04.05 ~ 2021.04.11** 👉 건희
 
-https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/
+https://programmers.co.kr/learn/courses/30/lessons/12981
 
-https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/
+https://programmers.co.kr/learn/courses/30/lessons/12909
 
-https://www.acmicpc.net/problem/1463
+https://programmers.co.kr/learn/courses/30/lessons/64064
 
-* * *
+***
+
+**2021.03.29 ~ 2021.04.04** 👉 도경
+
+https://programmers.co.kr/learn/courses/30/lessons/43164
+
+https://programmers.co.kr/learn/courses/30/lessons/42897
+
+https://programmers.co.kr/learn/courses/30/lessons/42579
+
+***
 
 **2021.03.22 ~ 2021.03.28** 👉 준현
 
@@ -20,10 +30,13 @@ https://www.acmicpc.net/problem/9370
 
 * * *
 
-**2021.03.29 ~ 2021.04.04** 👉 도경
+**2021.03.15 ~ 2021.03.21** 👉 민수
 
-https://programmers.co.kr/learn/courses/30/lessons/43164
+https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/
 
-https://programmers.co.kr/learn/courses/30/lessons/42897
+https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/
 
-https://programmers.co.kr/learn/courses/30/lessons/42579
+https://www.acmicpc.net/problem/1463
+
+
+
