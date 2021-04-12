@@ -1,5 +1,13 @@
 # AlgorithmStudy
 
+**2021.04.12 ~ 2021.04.18** 👉 병훈
+
+https://programmers.co.kr/learn/courses/30/lessons/60058
+
+https://programmers.co.kr/learn/courses/30/lessons/72412
+
+https://programmers.co.kr/learn/courses/30/lessons/49993
+
 **2021.04.05 ~ 2021.04.11** 👉 건희
 
 https://programmers.co.kr/learn/courses/30/lessons/12981
