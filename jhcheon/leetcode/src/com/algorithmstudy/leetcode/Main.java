@@ -13,10 +13,19 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        EnforcementCamera ec = new EnforcementCamera();
-        int[][] routes = {{-20, 15}, {-14, -5}, {-18, -13}, {-5, -3}};
-        System.out.println(routes.length);
-        System.out.println(ec.solution(routes));
+        ChuseokTraffic ct = new ChuseokTraffic();
+        String[] s = {"2016-09-15 20:59:57.421 0.351s",
+                "2016-09-15 20:59:58.233 1.181s",
+                "2016-09-15 20:59:58.299 0.8s",
+                "2016-09-15 20:59:58.688 1.041s",
+                "2016-09-15 20:59:59.591 1.412s",
+                "2016-09-15 21:00:00.464 1.466s",
+                "2016-09-15 21:00:00.741 1.581s",
+                "2016-09-15 21:00:00.748 2.31s",
+                "2016-09-15 21:00:00.966 0.381s",
+                "2016-09-15 21:00:02.066 2.62s"};
+//        String[] s = {"2016-09-15 00:00:00.000 3s"};
+        System.out.println(ct.solution(s));
     }
 }
 
